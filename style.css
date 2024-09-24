@@ -33,14 +33,7 @@ body {
   height: 100%;
   flex-direction: column;
 }
-.attribution {
-  font-size: 12px;
-  text-align: center;
-  color: black;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
+
 
 h1,
 h2,
@@ -56,6 +49,7 @@ p {
 .card {
   width: 320px;
   background: var(--white);
+  margin-top: 15px;
   padding: 15px;
   border-radius: 15px;
   margin-bottom: 20px;
