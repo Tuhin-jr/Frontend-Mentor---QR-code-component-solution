@@ -60,11 +60,12 @@ p {
 }
 .content h1 {
   color: var(--slate900);
-  font-size: 21px;
+  font-size: 22px;
 }
 .content p {
   color: var(--slate500);
   font-size: 15px;
+  line-height: 22px;
 }
 
 @media screen and (max-width: 450px) {
